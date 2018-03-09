@@ -1,0 +1,12 @@
+####{BSB GENERATED: NO EDIT
+FLG -ppx '/Users/andreas/code/date.re/node_modules/bs-platform/lib/reactjs_jsx_ppx_2.exe'
+FLG -ppx /Users/andreas/code/date.re/node_modules/bs-platform/lib/bsppx.exe
+S /Users/andreas/code/date.re/node_modules/bs-platform/lib/ocaml
+B /Users/andreas/code/date.re/node_modules/bs-platform/lib/ocaml
+FLG -nostdlib -w +a-4-6-7-9-27-29-32..39-41..42-40-44-45-48-50 -warn-error -a+8 -no-alias-deps -color always
+FLG -w -30-40+6+7+27+32..39+44+45+101
+S example
+B lib/bs/example
+S src
+B lib/bs/src
+####BSB GENERATED: NO EDIT}
